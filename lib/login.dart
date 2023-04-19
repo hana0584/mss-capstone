@@ -26,14 +26,14 @@ class FormLoginRouteState extends State<FormLoginRoute> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
-                  const Text("Memariya App",
+                  const Text("Memariya",
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 20,
                           fontWeight: FontWeight.bold)),
                   Container(height: 10),
                   const Text(
-                    "Transform Your Future with the Power of our Development Learning App!",
+                    "Transform Your Future with the Power of our !",
                     style: TextStyle(color: Colors.white),
                   )
                 ],
